@@ -58,6 +58,10 @@
             "hex": "#7366BD"
         },
         {
+            "color": "Bluetiful",
+            "hex": "#3C69E7"
+        },
+        {
             "color": "Blush",
             "hex": "#DE5D83"
         },
@@ -106,6 +110,10 @@
             "hex": "#BC5D58"
         },
         {
+            "color": "Cool Mint",
+            "hex": "#DDEBEC"
+        },
+        {
             "color": "Copper",
             "hex": "#DD9475"
         },
@@ -116,6 +124,10 @@
         {
             "color": "Cotton Candy",
             "hex": "#FFBCD9"
+        },
+        {
+            "color": "Crayellow",
+            "hex": "#F1D651"
         },
         {
             "color": "Dandelion",
@@ -254,6 +266,10 @@
             "hex": "#FFA343"
         },
         {
+            "color": "Oatmeal",
+            "hex": "#D9DAD2"
+        },
+        {
             "color": "Olive Green",
             "hex": "#BAB86C"
         },
@@ -304,6 +320,10 @@
         {
             "color": "Plum",
             "hex": "#8E4585"
+        },
+        {
+            "color": "Powder Blue",
+            "hex": "#C0D5F0"
         },
         {
             "color": "Purple Heart",
