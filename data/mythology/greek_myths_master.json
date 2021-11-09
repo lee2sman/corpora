@@ -34,7 +34,7 @@
 		"Prometheus",
 		"Styx"
 	],
-  
+
   "greek_monsters": [
 		"Arachne",
 		"Caucasian Eagle",
@@ -61,7 +61,7 @@
 		"Telekhines",
 		"Typhon"
 	],
-  
+
   "greek_gods": [
 		"Aphrodite",
 		"Apollo",
@@ -72,6 +72,7 @@
 		"Dionysus",
 		"Hades",
 		"Hephaestus",
+		"Hecate",
 		"Hera",
 		"Hermes",
 		"Hestia",
@@ -84,8 +85,11 @@
 		"Erebus",
 		"Eros",
 		"Hypnos",
+		"Iris",
 		"Uranus",
 		"Gaia",
+		"Pan",
+		"Persephone",
 		"Phanes",
 		"Pontus",
 		"Tartarus",
@@ -93,6 +97,7 @@
 		"Thanatos",
 		"Hemera",
 		"Nyx",
-		"Nemesis"
+		"Nemesis",
+		"Nike"
 	]
 }
