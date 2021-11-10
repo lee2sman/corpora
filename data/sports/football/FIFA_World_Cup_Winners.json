@@ -15,7 +15,7 @@
       "Runners-up": "Czechoslovakia",
       "Final Score": "2-1 (a.e.t)",
       "Venue": "Stadio Nazionale PNF",
-      "Location": "Rome, Italy",
+      "Location": "Rome, Italy"
     },
     {
       "Year": "1938",
@@ -23,7 +23,7 @@
       "Runners-up": "Hungary",
       "Final Score": "4-2",
       "Venue": "Stade Olympique de Colombes",
-      "Location": "Colombes (Paris), France",
+      "Location": "Colombes (Paris), France"
     },
     {
       "Year": "1950",
@@ -31,7 +31,7 @@
       "Runners-up": "Brazil",
       "Final Score": "2-1",
       "Venue": "Maracana Stadium",
-      "Location": "Rio de Janeiro, Brazil",
+      "Location": "Rio de Janeiro, Brazil"
     },
     {
       "Year": "1954",
@@ -39,7 +39,7 @@
       "Runners-up": "Hungary",
       "Final Score": "3-2",
       "Venue": "Wankdorf Stadium",
-      "Location": "Bern, Switzerland",
+      "Location": "Bern, Switzerland"
     },
     {
       "Year": "1958",
@@ -47,7 +47,7 @@
       "Runners-up": "Sweden",
       "Final Score": "5-2",
       "Venue": "Rasunda Stadium",
-      "Location": "Solna (Stockholm), Sweden",
+      "Location": "Solna (Stockholm), Sweden"
     },
     {
       "Year": "1962",
@@ -55,7 +55,7 @@
       "Runners-up": "Czechoslovakia",
       "Final Score": "3-1",
       "Venue": "Estadio Nacional",
-      "Location": "Santiago, Chile",
+      "Location": "Santiago, Chile"
     },
     {
       "Year": "1966",
@@ -63,7 +63,7 @@
       "Runners-up": "West Germany",
       "Final Score": "4-2 (a.e.t)",
       "Venue": "Wembley Stadium",
-      "Location": "London, England",
+      "Location": "London, England"
     },
     {
       "Year": "1970",
@@ -71,7 +71,7 @@
       "Runners-up": "Italy",
       "Final Score": "4-1",
       "Venue": "Estadio Azteca",
-      "Location": "Mexico City, Mexico",
+      "Location": "Mexico City, Mexico"
     },
     {
       "Year": "1974",
@@ -79,7 +79,7 @@
       "Runners-up": "Netherlands",
       "Final Score": "2-1",
       "Venue": "Olympiastadion",
-      "Location": "Munich, West Germany",
+      "Location": "Munich, West Germany"
     },
     {
       "Year": "1978",
@@ -87,7 +87,7 @@
       "Runners-up": "Netherlands",
       "Final Score": "3-1 (a.e.t)",
       "Venue": "Estadio Monumental",
-      "Location": "Buenos Aires, Argentina",
+      "Location": "Buenos Aires, Argentina"
     },
     {
       "Year": "1982",
@@ -95,7 +95,7 @@
       "Runners-up": "West Germany",
       "Final Score": "3-1",
       "Venue": "Santiago Bernabeu",
-      "Location": "Madrid, Spain",
+      "Location": "Madrid, Spain"
     },
     {
       "Year": "1986",
@@ -103,7 +103,7 @@
       "Runners-up": "West Germany",
       "Final Score": "3-2",
       "Venue": "Estadio Azteca",
-      "Location": "Mexico City, Mexico",
+      "Location": "Mexico City, Mexico"
     },
     {
       "Year": "1990",
@@ -111,7 +111,7 @@
       "Runners-up": "Argentina",
       "Final Score": "1-0",
       "Venue": "Stadio Olimpico",
-      "Location": "Rome, Italy",
+      "Location": "Rome, Italy"
     },
     {
       "Year": "1994",
@@ -119,7 +119,7 @@
       "Runners-up": "Italy",
       "Final Score": "0-0 (a.e.t.) (3-2 pen.)",
       "Venue": "Rose Bowl",
-      "Location": "Pasadena (Los Angeles), United States",
+      "Location": "Pasadena (Los Angeles), United States"
     },
     {
       "Year": "1998",
@@ -127,7 +127,7 @@
       "Runners-up": "Brazil",
       "Final Score": "3-0",
       "Venue": "Stade de France",
-      "Location": "Saint-Denis (Paris), France",
+      "Location": "Saint-Denis (Paris), France"
     },
     {
       "Year": "2002",
@@ -135,7 +135,7 @@
       "Runners-up": "Germany",
       "Final Score": "2-0",
       "Venue": "International Stadium",
-      "Location": "Yokohama, Japan",
+      "Location": "Yokohama, Japan"
     },
     {
       "Year": "2006",
@@ -143,7 +143,7 @@
       "Runners-up": "France",
       "Final Score": "1-1 (a.e.t.) (5-3 pen.)",
       "Venue": "Olympiastadion",
-      "Location": "Berlin, Germany",
+      "Location": "Berlin, Germany"
     },
     {
       "Year": "2010",
@@ -151,7 +151,7 @@
       "Runners-up": "Netherlands",
       "Final Score": "1-0 (a.e.t)",
       "Venue": "Soccer City",
-      "Location": "Johannesburg, South Africa",
+      "Location": "Johannesburg, South Africa"
     },
     {
       "Year": "2014",
@@ -159,7 +159,7 @@
       "Runners-up": "Argentina",
       "Final Score": "1-0 (a.e.t.)",
       "Venue": "Maracana Stadium",
-      "Location": "Rio de Janeiro, Brazil",
+      "Location": "Rio de Janeiro, Brazil"
     },
     {
       "Year": "2018",
@@ -167,7 +167,7 @@
       "Runners-up": "Croatia",
       "Final Score": "4-2",
       "Venue": "Luzhniki Stadium",
-      "Location": "Moscow, Russia",
-    },
+      "Location": "Moscow, Russia"
+    }
   ]
 }
