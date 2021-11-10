@@ -1,0 +1,173 @@
+{
+  "description" : "FIFA World Cup Winners List from 1930 to 2018",
+  "FIFA_World_Cup_Winners" : [
+    {
+      "Year": "1930",
+      "Winners": "Uruguay",
+      "Runners-up": "Argentina",
+      "Final Score": "4-2",
+      "Venue": "Estadio Centenario",
+      "Location": "Montevideo, Uruguay"
+    },
+    {
+      "Year": "1934",
+      "Winners": "Italy",
+      "Runners-up": "Czechoslovakia",
+      "Final Score": "2-1 (a.e.t)",
+      "Venue": "Stadio Nazionale PNF",
+      "Location": "Rome, Italy"
+    },
+    {
+      "Year": "1938",
+      "Winners": "Italy",
+      "Runners-up": "Hungary",
+      "Final Score": "4-2",
+      "Venue": "Stade Olympique de Colombes",
+      "Location": "Colombes (Paris), France"
+    },
+    {
+      "Year": "1950",
+      "Winners": "Uruguay",
+      "Runners-up": "Brazil",
+      "Final Score": "2-1",
+      "Venue": "Maracana Stadium",
+      "Location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "Year": "1954",
+      "Winners": "West Germany",
+      "Runners-up": "Hungary",
+      "Final Score": "3-2",
+      "Venue": "Wankdorf Stadium",
+      "Location": "Bern, Switzerland"
+    },
+    {
+      "Year": "1958",
+      "Winners": "Brazil",
+      "Runners-up": "Sweden",
+      "Final Score": "5-2",
+      "Venue": "Rasunda Stadium",
+      "Location": "Solna (Stockholm), Sweden"
+    },
+    {
+      "Year": "1962",
+      "Winners": "Brazil",
+      "Runners-up": "Czechoslovakia",
+      "Final Score": "3-1",
+      "Venue": "Estadio Nacional",
+      "Location": "Santiago, Chile"
+    },
+    {
+      "Year": "1966",
+      "Winners": "England",
+      "Runners-up": "West Germany",
+      "Final Score": "4-2 (a.e.t)",
+      "Venue": "Wembley Stadium",
+      "Location": "London, England"
+    },
+    {
+      "Year": "1970",
+      "Winners": "Brazil",
+      "Runners-up": "Italy",
+      "Final Score": "4-1",
+      "Venue": "Estadio Azteca",
+      "Location": "Mexico City, Mexico"
+    },
+    {
+      "Year": "1974",
+      "Winners": "West Germany",
+      "Runners-up": "Netherlands",
+      "Final Score": "2-1",
+      "Venue": "Olympiastadion",
+      "Location": "Munich, West Germany"
+    },
+    {
+      "Year": "1978",
+      "Winners": "Argentina",
+      "Runners-up": "Netherlands",
+      "Final Score": "3-1 (a.e.t)",
+      "Venue": "Estadio Monumental",
+      "Location": "Buenos Aires, Argentina"
+    },
+    {
+      "Year": "1982",
+      "Winners": "Italy",
+      "Runners-up": "West Germany",
+      "Final Score": "3-1",
+      "Venue": "Santiago Bernabeu",
+      "Location": "Madrid, Spain"
+    },
+    {
+      "Year": "1986",
+      "Winners": "Argentina",
+      "Runners-up": "West Germany",
+      "Final Score": "3-2",
+      "Venue": "Estadio Azteca",
+      "Location": "Mexico City, Mexico"
+    },
+    {
+      "Year": "1990",
+      "Winners": "West Germany",
+      "Runners-up": "Argentina",
+      "Final Score": "1-0",
+      "Venue": "Stadio Olimpico",
+      "Location": "Rome, Italy"
+    },
+    {
+      "Year": "1994",
+      "Winners": "Brazil",
+      "Runners-up": "Italy",
+      "Final Score": "0-0 (a.e.t.) (3-2 pen.)",
+      "Venue": "Rose Bowl",
+      "Location": "Pasadena (Los Angeles), United States"
+    },
+    {
+      "Year": "1998",
+      "Winners": "France",
+      "Runners-up": "Brazil",
+      "Final Score": "3-0",
+      "Venue": "Stade de France",
+      "Location": "Saint-Denis (Paris), France"
+    },
+    {
+      "Year": "2002",
+      "Winners": "Brazil",
+      "Runners-up": "Germany",
+      "Final Score": "2-0",
+      "Venue": "International Stadium",
+      "Location": "Yokohama, Japan"
+    },
+    {
+      "Year": "2006",
+      "Winners": "Italy",
+      "Runners-up": "France",
+      "Final Score": "1-1 (a.e.t.) (5-3 pen.)",
+      "Venue": "Olympiastadion",
+      "Location": "Berlin, Germany"
+    },
+    {
+      "Year": "2010",
+      "Winners": "Spain",
+      "Runners-up": "Netherlands",
+      "Final Score": "1-0 (a.e.t)",
+      "Venue": "Soccer City",
+      "Location": "Johannesburg, South Africa"
+    },
+    {
+      "Year": "2014",
+      "Winners": "Germany",
+      "Runners-up": "Argentina",
+      "Final Score": "1-0 (a.e.t.)",
+      "Venue": "Maracana Stadium",
+      "Location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "Year": "2018",
+      "Winners": "France",
+      "Runners-up": "Croatia",
+      "Final Score": "4-2",
+      "Venue": "Luzhniki Stadium",
+      "Location": "Moscow, Russia"
+    },
+  ]
+}
