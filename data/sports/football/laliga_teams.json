@@ -1,15 +1,21 @@
 {
- "description": "Teams in the Spanish Primera División, La Liga(2017-18) with their details ",
+ "description": "Teams in the Spanish Primera División, La Liga(2023-24) with their details ",
  "laLiga_teams": [
   {
    "name": "Alavés",
-   "manager": "Luis Zubeldía",
+   "manager": "Luis García Plaza",
    "loc": "Vitoria-Gasteiz",
    "stadium": "Mendizorrotza"
   },
   {
+    "name": "Almeria",
+    "manager": "Gaizka Garitano",
+    "loc": "Almeria",
+    "stadium": "Power Horse Stadium"
+   },
+  {
    "name": "Athletic Bilbao",
-   "manager": "José Ángel Ziganda",
+   "manager": "Ernesto Valverde",
    "loc": "Bilbao",
    "stadium": "San Mamés"
   },
@@ -21,33 +27,22 @@
   },
   {
    "name": "Barcelona",
-   "manager": "Ernesto Valverde",
+   "manager": "Xavi",
    "loc": "Barcelona",
    "stadium": "Camp Nou"
   },
+
+{
+    "name": "Cadiz",
+    "manager": "Sergio González",
+    "loc": "Nuevo Mirandilla",
+    "stadium": "Cadiz"
+   },
   {
    "name": "Celta Vigo",
-   "manager": "Juan Carlos Unzué",
+   "manager": "Rafa Benítez",
    "loc": " Vigo",
    "stadium": "Balaídos"
-  },
-  {
-   "name": "Deportivo La Coruña",
-   "manager": "Pepe Mel",
-   "loc": "A Coruña",
-   "stadium": "Abanca-Riazor"
-  },
-  {
-   "name": "Eibar",
-   "manager": "José Luis Mendilibar",
-   "loc": "Eibar",
-   "stadium": "Ipurua"
-  },
-  {
-   "name": "Espanyol",
-   "manager": "Quique Sánchez Flores",
-   "loc": "Barcelona",
-   "stadium": "RCDE Stadium"
   },
   {
    "name": "Getafe",
@@ -57,69 +52,90 @@
   },
   {
    "name": "Girona",
-   "manager": "Pablo Machín",
+   "manager": "Míchel Sánchez",
    "loc": "Girona",
    "stadium": "Montilivi"
   },
   {
+    "name": "Granada",
+    "manager": "Paco López",
+    "loc": "Nuevo Los Cármenes",
+    "stadium": "Granada"
+   },
+  {
    "name": "Las Palmas",
-   "manager": "Manolo Márquez",
+   "manager": "Xavi García Pimienta",
    "loc": "Las Palmas",
    "stadium": "Gran Canaria"
   },
   {
-   "name": "Leganés",
-   "manager": "Asier Garitano",
-   "loc": "Leganés",
-   "stadium": "Butarque"
-  },
-  {
-   "name": "Levante",
-   "manager": "Juan Muñiz",
-   "loc": "Valencia",
-   "stadium": "Ciutat de València"
-  },
-  {
-   "name": "Málaga",
-   "manager": "Míchel",
-   "loc": "Málaga",
-   "stadium": "La Rosaleda"
-  },
+    "name": "Mallorca",
+    "manager": "Javier Aguirre",
+    "loc": "Baleares",
+    "stadium": "Estadi Mallorca Son Moix"
+   },
+   {
+    "name": "Osasuna",
+    "manager": "Jagoba Arrasate",
+    "loc": "Navarra",
+    "stadium": "El Sadar"
+   },
+   {
+    "name": "Rayo",
+    "manager": "Francisco Rodríguez",
+    "loc": "Madrid",
+    "stadium": "Estadio de Vallecas"
+   },
   {
    "name": "Real Betis",
-   "manager": "Quique Setién",
+   "manager": "Manuel Pellegrini",
    "loc": "Seville",
    "stadium": "Benito Villamarín"
   },
   {
    "name": "Real Madrid",
-   "manager": "Zinedine Zidane",
+   "manager": "Carlo Ancelotti",
    "loc": "Madrid",
    "stadium": "Santiago Bernabéu"
   },
   {
    "name": "Real Sociedad",
-   "manager": "Eusebio Sacristán",
+   "manager": "Imanol Alguacil",
    "loc": "San Sebastián",
    "stadium": "Anoeta"
   },
   {
    "name": "Sevilla",
-   "manager": "Eduardo Berizzo",
+   "manager": "Diego Alonso",
    "loc": "Seville",
    "stadium": "Ramón Sánchez Pizjuán"
   },
   {
    "name": "Valencia",
-   "manager": "Marcelino",
+   "manager": "Rubén Baraja",
    "loc": "Valencia",
    "stadium": "Mestalla"
   },
   {
    "name": "Villarreal",
-   "manager": "Fran Escribá",
+   "manager": "Marcelino García Toral",
    "loc": "Villarreal",
    "stadium": "Estadio de la Cerámica"
   }
  ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
