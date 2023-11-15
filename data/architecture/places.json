@@ -1,61 +1,74 @@
 {
-"description": "Places",
-  "source": "https://www.architecturaldigest.com/story/most-iconic-buildings-around-the-world",
-  "places to visit with great architecture before you go": [{
-    "name":"Avala Tower",
-    "where": "Beli Potok, Serbia"
-  }, {
-    "name":"Svalbard Seed Vault",
-    "where": "Svalbard and Jan Mayen"
-  }, {
-    "name":"Christi Auferstehung Church",
-    "where": "Cologne, Germany"
-  },{
-    "name":"Cathedral of Christ the King",
-    "where": "La Spezia, Italy"
-  },{
-    "name": "Renaissance Center", 
-    "where": "Detroit, MI"
-  },{
-    "name": "The Guggenheim",
-    "where": "New York City, USA" 
-  },{
-    "name": "The Pyramids of Giza",
-    "where": "Giza, Egypt"
-  },{
-   "name":"Acropolis of Athens",
-   "where": "Athens, Greece"
-  },{ 
-    "name": "Musée d'Orsay",
-    "where": "Paris, France"
-  },{ 
-    "name": "The Gherkin", 
-    "where":"London, U.K."
-  },{
-    "name":"Metropolitan Cathedral of Brasília",
-    "where": "Brasília, Brazil"
-  },{
-    "name": "The Colosseum",
-    "where": "Rome, Italy"
-  },{
-     "name": "The Lotus Temple",
-    "where": "New Delhi, India"
-  },{
-    "name": "St. Basil's Cathedral", 
-    "where": "Moscow, Russia"
-  },{
-    "name": "Dome of the Rock",
-    "where":"Jerusalem, Israel"
-  },{
-     "name": "Casa Milà",
-    "where": "Barcelona, Spain"
-  },{
-    "name": "Forbidden City",
-    "where":"Beijing, China"
-  }
-
- ]
+    "description": "Places",
+    "source": "https://www.architecturaldigest.com/story/most-iconic-buildings-around-the-world",
+    "places to visit with great architecture before you go": [
+        {
+            "name": "Avala Tower",
+            "where": "Beli Potok, Serbia"
+        },
+        {
+            "name": "Svalbard Seed Vault",
+            "where": "Svalbard and Jan Mayen"
+        },
+        {
+            "name": "Christi Auferstehung Church",
+            "where": "Cologne, Germany"
+        },
+        {
+            "name": "Cathedral of Christ the King",
+            "where": "La Spezia, Italy"
+        },
+        {
+            "name": "Renaissance Center",
+            "where": "Detroit, MI"
+        },
+        {
+            "name": "The Guggenheim",
+            "where": "New York City, USA"
+        },
+        {
+            "name": "The Pyramids of Giza",
+            "where": "Giza, Egypt"
+        },
+        {
+            "name": "Acropolis of Athens",
+            "where": "Athens, Greece"
+        },
+        {
+            "name": "Musée d'Orsay",
+            "where": "Paris, France"
+        },
+        {
+            "name": "The Gherkin",
+            "where": "London, U.K."
+        },
+        {
+            "name": "Metropolitan Cathedral of Brasília",
+            "where": "Brasília, Brazil"
+        },
+        {
+            "name": "The Colosseum",
+            "where": "Rome, Italy"
+        },
+        {
+            "name": "The Lotus Temple",
+            "where": "New Delhi, India"
+        },
+        {
+            "name": "St. Basil's Cathedral",
+            "where": "Moscow, Russia"
+        },
+        {
+            "name": "Dome of the Rock",
+            "where": "Jerusalem, Israel"
+        },
+        {
+            "name": "Casa Milà",
+            "where": "Barcelona, Spain"
+        },
+        {
+            "name": "Forbidden City",
+            "where": "Beijing, China"
+        }
+    ]
 }
-
-
-  
